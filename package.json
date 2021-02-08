@@ -1,0 +1,20 @@
+{
+  "name": "Quotes_BCS",
+  "version": "1.0.0",
+  "description": "Quotes from Better Call Saul",
+  "main": "Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicGm/Quotes_BCS.git"
+  },
+  "keywords": [],
+  "author": "Nicolette Gladu-Molina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicGm/Quotes_BCS/issues"
+  },
+  "homepage": "https://github.com/NicGm/Quotes_BCS#readme"
+}
