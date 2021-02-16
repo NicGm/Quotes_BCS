@@ -4,6 +4,5 @@ let quotes = [
 `"You know why God made snakes before he made lawyers? He needed the practice."
 -Jimmy McGill, S4.Ep2: Breathe`,
 ]
-
 let index = Math.floor(Math.random() * 2)
 console.log(quotes[index])
